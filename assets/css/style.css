@@ -213,6 +213,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../../ransonk-prof-pic-2.png") top center;
   background-size: cover;
+  opacity: 0.2;
 }
 
 #hero:before {
