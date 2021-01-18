@@ -1088,10 +1088,6 @@ section {
   color: black !important;
 }
 
-#header, .profile img {
-  width: 32px !important;
-}
-
 .hero-container, aos-init, aos-animate{
   color: black !important;
 }
