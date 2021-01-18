@@ -1087,3 +1087,7 @@ section {
 #header{
   width: 300px !important;
 }
+
+img{
+  width: 120px !important;
+}
