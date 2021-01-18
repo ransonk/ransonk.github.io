@@ -1085,9 +1085,9 @@ section {
 
 
 .intro{
-  color: black;
+  color: black !important;
 }
 
 #header .profile img{
-  width: 32px;
+  width: 32px !important;
 }
