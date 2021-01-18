@@ -1087,3 +1087,7 @@ section {
 .intro{
   color: black;
 }
+
+#header .profile img{
+  width: 32px;
+}
