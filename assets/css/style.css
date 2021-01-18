@@ -1082,12 +1082,3 @@ section {
     padding-right: 20px 15px;
   }
 }
-
-
-.intro{
-  color: black !important;
-}
-
-.hero-container, aos-init, aos-animate{
-  color: black !important;
-}
